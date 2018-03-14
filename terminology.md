@@ -48,11 +48,13 @@ Univariate data: Data with a single varying variable
 
 Bivariate data: Data with more than one varying variable.
 
+Permutations
 
+Combinations:
+
+Probability 
 
 ### Statistical Terms:
-
-
 
 Anecdotal evidence:
 

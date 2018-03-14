@@ -12,3 +12,5 @@ Chicago crimes: [https://www.kaggle.com/currie32/crimes-in-chicago/data](https:/
 
 
 
+Algebra, Calculus, Prob and Stats: [http://qr.ae/TU17vc](http://qr.ae/TU17vc) 
+

@@ -21,7 +21,7 @@ Why do we need statistics to answer this question? Most of the answers we hear i
 
 ### My Question to answer?
 
-Does more crimes happen in summer? 
+Does more crimes happen in summer?
 
 ### Statistical Approach:
 
@@ -41,29 +41,7 @@ Cross-sectional Study: This study analyzes the data from a population at a parti
 
 Longitudinal Study: The study analyzes the data from a population over a period of time.
 
-### 
 
-### Terminology:
 
-Anecdotal evidence:
 
-Cross-sectional Study:
-
-Longitudinal Study:
-
-Population:
-
-Representative population
-
-Oversampling:
-
-recode:
-
-apparent effect
-
-Summary Statistics
-
-Statistically Significant
-
-artifact:
 
